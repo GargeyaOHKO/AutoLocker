@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AutoLocker
 
 > ### Vision-Guided Robotic Perception and Embedded Control Platform
@@ -25,9 +26,9 @@
   <img src="images/tracking_demo.gif" width="750">
 </p>
 
-
 ---
 
+<<<<<<< HEAD
 # Overview
 
 AutoLocker is a vision-guided robotic perception platform designed to explore the integration of computer vision, embedded systems, and real-time robotic actuation. The project demonstrates a complete **perception → decision → action** pipeline by combining OpenCV-based face detection, embedded servo control, and a mechanically actuated launcher into a single autonomous robotic system.

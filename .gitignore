@@ -1,0 +1,61 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Arduino build artifacts
+*.hex
+*.elf
+*.bin
+*.eep
+
+# OneDrive temporary files
+~$*
+*.tmp
+*.lnk
+
+# Logs
+*.log
+
+# Secrets
+.env
+*.key
+*.pem
+
+# Compiled objects
+*.o
+*.obj
+
+# Model / large files
+# These are ignored by default. If you prefer to store model binaries using Git LFS,
+# do NOT ignore them — instead install git-lfs and track them (commands below).
+*.caffemodel
+*.pb
+*.onnx
+*.tflite
+*.h5
+*.pt
+
+# If you use Git LFS for models, run:
+#   1) Install git-lfs: https://git-lfs.github.com/
+#   2) `git lfs install`
+#   3) `git lfs track "*.caffemodel" "*.onnx" "*.pb"`
+#   4) `git add .gitattributes` and then add/commit the large files
